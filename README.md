@@ -8,3 +8,9 @@ Este repositorio es mi espacio de práctica para aprender GitHub.
 - Hacer commits
 - Trabajar con ramas
 - Bajar cambios con git pull
+
+## Recursos para aprender
+
+- GitHub Skills: https://skills.github.com
+- Learn Git Branching: https://learngitbranching.js.org
+- Pro Git en español: https://git-scm.com/book/es/v2
