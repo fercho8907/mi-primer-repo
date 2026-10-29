@@ -7,3 +7,4 @@ Este repositorio es mi espacio de práctica para aprender GitHub.
 - Crear repositorios
 - Hacer commits
 - Trabajar con ramas
+- Bajar cambios con git pull
